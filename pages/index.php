@@ -1,9 +1,3 @@
-<?php 
-//Conexão
-require_once 'login/db_connect.php';
-
-?>
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
